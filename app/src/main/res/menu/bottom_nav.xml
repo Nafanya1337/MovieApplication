@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Домашняя"
+        android:id="@+id/popularFilmsFragment"
+        android:icon="@drawable/baseline_star_24"/>
+
+    <item android:title="Сохраненные"
+        android:id="@+id/savedFilmsFragment"
+        android:icon="@drawable/baseline_bookmark_24"/>
+
+</menu>
